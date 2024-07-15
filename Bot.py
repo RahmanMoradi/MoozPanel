@@ -9,11 +9,11 @@ from MoozBot import *
 DB = config.DB
 
 #Informations...
-api_id = 2939370
-api_hash = 'aa2a28eeb4a5e90f3e57765544e9569b'
-admin = 1268904833
+api_id = 000
+api_hash = 'abc'
+admin = 000
 botUsername = ''
-token = '5565651860:AAHmMpTSGnihjD94MSf121XetZEyuUpnchA'
+token = ''
 
 #logging...
 #logging.basicConfig( filename = 'mooz-excepts.txt' , filemode = 'a+'  )
